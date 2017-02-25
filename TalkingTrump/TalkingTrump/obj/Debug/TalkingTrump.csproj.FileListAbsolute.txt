@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\bin\Debug\TalkingTrump.exe.config
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\obj\Debug\TalkingTrump.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\bin\Debug\TalkingTrump.exe
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\bin\Debug\TalkingTrump.pdb
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\obj\Debug\TalkingTrump.exe
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\obj\Debug\TalkingTrump.pdb
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\WarwickHack\TalkingTrump\TalkingTrump\bin\Debug\Newtonsoft.Json.xml
